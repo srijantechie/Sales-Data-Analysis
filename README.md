@@ -9,7 +9,7 @@ The goal of this project was to understand key business metrics such as revenue,
 
 ## Key Features
 
---Summary KPIs: Total Orders, Total Revenue, Average Customer Spend, and Delivery Time
+# Summary KPIs: Total Orders, Total Revenue, Average Customer Spend, and Delivery Time
 
 --Revenue analysis by:
 
