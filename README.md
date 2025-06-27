@@ -1,6 +1,6 @@
  ## FNP Sales Analysis Dashboard (Excel Project)
 
- [!image alt](https://github.com/srijantechie/Sales-Data-Analysis/blob/d6acab320e866ca55023ff2d4e8b1ba3d4902bc0/Sales%20Analysis.png)
+ ![image alt](https://github.com/srijantechie/Sales-Data-Analysis/blob/d6acab320e866ca55023ff2d4e8b1ba3d4902bc0/Sales%20Analysis.png)
  
 This project presents a detailed sales analysis for Ferns N Petals (FNP) using Microsoft Excel. The analysis includes insights into customer orders, revenue trends, delivery patterns, and popular products, built using Excel’s advanced tools like Power Query, Power Pivot, Pivot Tables, and interactive Dashboards.
 
